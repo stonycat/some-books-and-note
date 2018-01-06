@@ -50,3 +50,6 @@ This repository stores some books and learning notes.
 4-writing Science by Schimel :star:(Course)</br>
 5-Science search writing by Hilary Glasman Deal  :star: (Course)</br>
 6-English for Research Usage Style and Grammar (Springer):star:</br>
+
+**course**
+cs229，cs231n，cs224n，cs294，cs246
