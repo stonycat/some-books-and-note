@@ -23,9 +23,9 @@ This repository stores some books and learning notes.
 **Math**
 </br>
 1-矩阵分析与应用 张贤达</br>
-2-矩阵分析 华章数学丛书</br>
-3-凸优化理论 中文版 Boyd</br>
-4-普林斯顿 微积分</br>
+2-Matrix Analysis 华章数学丛书</br>
+3-Convex Theory Boyd</br>
+4- Princeton Calculus</br>
 5-线性代数及其应用 Lay :star:
 </br></br>
  **Machine learning**
@@ -51,5 +51,5 @@ This repository stores some books and learning notes.
 5-Science search writing by Hilary Glasman Deal  :star: (Course)</br>
 6-English for Research Usage Style and Grammar (Springer):star:</br>
 
-**course**
-cs229，cs231n，cs224n，cs294，cs246
+**course**</br>
+cs224n，cs294，cs246
