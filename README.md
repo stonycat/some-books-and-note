@@ -27,7 +27,9 @@ This repository stores some books and learning notes.
 3-Convex Theory Boyd</br>
 4- Princeton Calculus</br>
 5-线性代数及其应用 Lay :star:
-</br></br>
+</br>
+6-Math of CS
+</br>
  **Machine learning**
  </br>
  1-PRML english version part1-2</br>
