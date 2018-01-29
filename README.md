@@ -16,10 +16,8 @@ This repository stores some books and learning notes.
 1-Python核心编程（第3版）</br>
 2-流畅的python</br>
 3-代码整洁之道</br>
-4-tf官网文档中文版 v1.2</br>
-5-集体智慧编程 中文版</br>
-6-代码大全2 https://pan.baidu.com/s/1i4MCYqD</br>
-7-C++primer （第五版）https://pan.baidu.com/s/1sldXAPJ
+4-集体智慧编程 中文版</br>
+5-代码大全2 https://pan.baidu.com/s/1i4MCYqD</br>
 </br></br>
 **Math**
 </br>
