@@ -11,6 +11,7 @@ This repository stores some books and learning notes.
 6-剑指offer
 
 </br>
+
 **Code/Tools**
 </br>
 1-Python核心编程（第3版）</br>
@@ -19,6 +20,8 @@ This repository stores some books and learning notes.
 4-集体智慧编程 中文版</br>
 5-代码大全2 https://pan.baidu.com/s/1i4MCYqD</br>
 </br></br>
+
+
 **Math**
 </br>
 1-矩阵分析与应用 张贤达</br>
@@ -29,6 +32,7 @@ This repository stores some books and learning notes.
 </br>
 6-Math of CS
 </br>
+
  **Machine learning**
  </br>
  1-PRML english version part1-2</br>
@@ -43,6 +47,8 @@ This repository stores some books and learning notes.
  2-CV-Algorithm and applications
  </br>
  </br>
+ 
+ 
  **English Writing**
  </br>
 1-English for reaearch papers.pdf  (Springer)</br>
